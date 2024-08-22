@@ -1,0 +1,1 @@
+import{f as s,g as n,c as a,a as t,F as r,o as c}from"./index-BoYVSIqo.js";const u=t("h1",null,"404",-1),m={__name:"NotFoundView",setup(l){s();const e=n(),o=()=>{e.push("/")};return(_,p)=>(c(),a(r,null,[u,t("button",{onClick:o,class:"btn btn-outline-primary"},"volver")],64))}};export{m as default};
