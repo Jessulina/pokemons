@@ -1,29 +1,7 @@
-# router-1
+# Pokémon API Practice
 
-This template should help get you started developing with Vue 3 in Vite.
+This project is a practice API for Pokémon, from the Udemy course Vue js 3 from Scratch + Vite + Firebase 9 + MEVN
 
-## Recommended IDE Setup
+## Description
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
 
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
